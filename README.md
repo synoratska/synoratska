@@ -19,7 +19,7 @@
 <br />
 <br />
 
-I am an ambitious and hard-working Junior Full-stack JS developer.
+I am an ambitious and hard-working Full-stack JS developer.
 I have experience in building full-stack projects which are based on Node.js / Firebase as a backend for them and React.js / Angular as a frontend.
 Looking for a position in a company that can offer a mentoring program, development training, and project-based learning to develop the competencies needed for current and future roles.
 
