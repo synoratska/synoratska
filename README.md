@@ -31,7 +31,7 @@ Looking for a position in a company that can offer a mentoring program, developm
 - 👨🏽‍💻 I’m currently learning React.js and improve my skills in Full-stack project by building My Moments app (https://github.com/synoratska/my-moments-app);
 - ⚡️ My hobbies are languages, music, reading, running, travelling and getting new skills;
 - 📫 How to reach me: m.synoratska@gmail.com;
-- 📝[Resume](https://msynoratska.netlify.app/)
+- 📝[Resume](https://m-synoratska-portfolio.netlify.app/)
 
 **Languages and Tools:**  
 
