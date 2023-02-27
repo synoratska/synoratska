@@ -21,6 +21,7 @@
 
 I am an ambitious and hard-working Full-stack JS developer.
 I have experience in building full-stack projects which are based on Node.js / Firebase as a backend for them and React.js / Angular as a frontend.
+I worked at IT companies as Vue developer and continue to improve my skills in it.
 Looking for a position in a company that can offer a mentoring program, development training, and project-based learning to develop the competencies needed for current and future roles.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -28,7 +29,6 @@ Looking for a position in a company that can offer a mentoring program, developm
 **Talking about Personal Stuffs:**
 
 - 💬 English teacher and tutor in past and developer in present.
-- 👨🏽‍💻 I’m currently learning React.js and improve my skills in Full-stack project by building My Moments app (https://github.com/synoratska/my-moments-app);
 - ⚡️ My hobbies are languages, music, reading, running, travelling and getting new skills;
 - 📫 How to reach me: m.synoratska@gmail.com;
 - 📝[Resume | Portfolio](https://m-synoratska-portfolio.netlify.app/)
